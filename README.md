@@ -1,5 +1,4 @@
-# Substractive-Genomics-approach-
-This project uses a Python-driven subtractive genomics approach to identify novel drug targets against Mycobacterium tuberculosis.
+
 # Subtractive Genomics Approach for Drug Target Identification in *Mycobacterium tuberculosis*
 
 A computational pipeline implementing the subtractive genomics methodology to identify potential novel drug targets in *Mycobacterium tuberculosis* (H37Rv strain), the causative agent of tuberculosis (TB).
